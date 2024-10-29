@@ -27,7 +27,7 @@ const Contact = () => {
   };
 
   return (
-    <div id="contact" className="max-w-[1240px] m-auto p-4 pt-[150px]  h-screen">
+    <div id="contact" className="max-w-[1240px] m-auto p-4 h-screen">
       <div className="flex flex-col items-center justify-center">
         <div>
           <h2
